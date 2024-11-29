@@ -42,7 +42,7 @@ go build -o killdoser
 
 4. Run the tool:
 ```bash
-./dos-test-tool
+./killdoser
 ```
 
 ---
@@ -51,7 +51,7 @@ Usage
 
 1. Run the tool and follow the on-screen prompts:
 ```bash
-./dos-test-tool
+./killdoser
 ```
 
 2. Select options as needed:
