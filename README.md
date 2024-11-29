@@ -39,6 +39,10 @@ The **DoS Test Tool** is a command-line utility designed for testing the robustn
 ```bash
 go build -o killdoser
 ```
+or 3.1. run the main.go without building it.
+```bash
+go run main.go
+```
 
 4. Run the tool:
 ```bash
