@@ -118,14 +118,4 @@ This project is licensed under the MIT License.
 
 Note: Always verify the legality and authorization of your testing activities!
 
-### Key Sections in the README:
-- **Overview**: Describes the tool's purpose and intended use.
-- **Features**: Highlights the tool's capabilities.
-- **Installation**: Guides users through setting up the tool.
-- **Usage**: Explains how to interact with the tool.
-- **Legal Disclaimer**: Explicitly states the ethical and legal boundaries.
-- **Contribution**: Encourages community involvement.
-- **Acknowledgments**: Recognizes contributors and resources.
-
-Feel free to customize further based on your needs.
 
